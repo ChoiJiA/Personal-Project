@@ -1,6 +1,8 @@
 # Personal-Project
-> This is the space where I record my personal projects
-> 제 개인적인 프로젝트를 기록하기 위한 공간입니다. 
+> This is the space where I record my personal projects    
+> 제 개인적인 프로젝트를 기록하기 위한 공간입니다.     
+
+--------------------------------- 
 
 ### 1. Subway Conjestion Analysis
 
